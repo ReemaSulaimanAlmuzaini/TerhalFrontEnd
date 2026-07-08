@@ -1,0 +1,1793 @@
+[
+  {
+    "place_name": "Cacti Cafe",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.8339855,
+    "longitude": 46.7356133,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "فازا قهوة مختصة",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7724577,
+    "longitude": 46.6973369,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ناريز",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.8072766,
+    "longitude": 46.8521092,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Fc Lounge - اف سي لاونج",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.8131149,
+    "longitude": 46.7680585,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "PEAKS",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.742045,
+    "longitude": 46.6348092,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Joffrey's جوفريز",
+    "category": "cafe",
+    "rating": 2.9,
+    "latitude": 24.7146875,
+    "longitude": 46.6349375,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Just A Space",
+    "category": "cafe",
+    "rating": 3.7,
+    "latitude": 24.7537907,
+    "longitude": 46.6391066,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "الشاهي العراقي",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.7858838,
+    "longitude": 46.570204,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Starbucks",
+    "category": "cafe",
+    "rating": 3,
+    "latitude": 24.5748114,
+    "longitude": 46.6775316,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Arabica cafe",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.7712633,
+    "longitude": 46.8047485,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ستار بوكس",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.7241864,
+    "longitude": 46.7757565,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "10AM CAFE",
+    "category": "cafe",
+    "rating": 4.9,
+    "latitude": 24.7010111,
+    "longitude": 46.6470984,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "راما كافية",
+    "category": "cafe",
+    "rating": 3.3,
+    "latitude": 24.6067405,
+    "longitude": 46.7445356,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "كيان كافيه",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.5736094,
+    "longitude": 46.6238151,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "McCafe",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.6703427,
+    "longitude": 46.7276564,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "عنوان القهوة",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.7125499,
+    "longitude": 46.836938,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Barista Tools",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.7774284,
+    "longitude": 46.6878705,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "barn’s cafe",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.5525426,
+    "longitude": 46.6258991,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "blue beans bakery & cafe بلو بينز",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.7859556,
+    "longitude": 46.6579725,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Eve Cafe",
+    "category": "cafe",
+    "rating": 3.6,
+    "latitude": 24.7954196,
+    "longitude": 46.786493,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "بلد المسافر لشيش والمعسلات طريق القصيم",
+    "category": "cafe",
+    "rating": 3.2,
+    "latitude": 24.8826293,
+    "longitude": 46.5877106,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Mark & Spencer Cafe",
+    "category": "cafe",
+    "rating": 3.4,
+    "latitude": 24.6925495,
+    "longitude": 46.6699901,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "وزنة ورق لتقديم الشاي",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.6766428,
+    "longitude": 46.8016956,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Aromaz coffee",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.8186445,
+    "longitude": 46.6869512,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Dunkin Donuts",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.7677145,
+    "longitude": 46.5773147,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "بدون اسم . قهوة مختصة",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.5472751,
+    "longitude": 46.7066242,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ضحى لاونج DUHA LOUNGE",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.8027909,
+    "longitude": 46.6947933,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ثيم كافيه",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.5901176,
+    "longitude": 46.6464823,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "كرك عزام",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.5869754,
+    "longitude": 46.543266,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Pretzel Maker بيرتزل ميكر",
+    "category": "cafe",
+    "rating": 4.5,
+    "latitude": 24.6786722,
+    "longitude": 46.7246902,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "WAST ALQAHRA Coffee shop - كافيه وسط القاهرة",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.5916426,
+    "longitude": 46.7587146,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "صبة شاي",
+    "category": "cafe",
+    "rating": 4.5,
+    "latitude": 24.6537921,
+    "longitude": 46.5879395,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Cusina Cafe",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.6455863,
+    "longitude": 46.7170531,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Caffa coffee",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.6886218,
+    "longitude": 46.7763036,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مزاج مغربي",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.6915889,
+    "longitude": 46.7751157,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "سهرانة",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.7874156,
+    "longitude": 46.689307,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Coffee House",
+    "category": "cafe",
+    "rating": 3.6,
+    "latitude": 24.5853449,
+    "longitude": 46.6263145,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "قهوتنا زمان",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.5754061,
+    "longitude": 46.546412,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "INFUSE",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.73743,
+    "longitude": 46.6090483,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "dr.CAFE COFFEE",
+    "category": "cafe",
+    "rating": 4.7,
+    "latitude": 24.753468,
+    "longitude": 46.6908358,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "dr.CAFE COFFEE |",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.7884049,
+    "longitude": 46.7254538,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "دانكن دونتس",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.5723811,
+    "longitude": 46.5554814,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Ristretto Caffe",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7017553,
+    "longitude": 46.6758945,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Tobacco Coffee",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.7408308,
+    "longitude": 46.7669694,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Pure coffee",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.5798633,
+    "longitude": 46.603584,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "KF Coffee",
+    "category": "cafe",
+    "rating": 4.5,
+    "latitude": 24.5931074,
+    "longitude": 46.6941866,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Vite café",
+    "category": "cafe",
+    "rating": 3.1,
+    "latitude": 24.6930929,
+    "longitude": 46.7142286,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Half Million",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.7759027,
+    "longitude": 46.6183733,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "dr.CAFE COFFEE | د.كيف كافيه",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.8423415,
+    "longitude": 46.7226365,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "عنوان القهوة",
+    "category": "cafe",
+    "rating": 3.3,
+    "latitude": 24.7071199,
+    "longitude": 46.6885793,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Grek Cafe & Juicery",
+    "category": "cafe",
+    "rating": 4.5,
+    "latitude": 24.8001474,
+    "longitude": 46.6000625,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "دانكن",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7305814,
+    "longitude": 46.834839,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "كافيه المخبز اللذيذ",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.6632305,
+    "longitude": 46.7037482,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى المساء الذهبي",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.561911,
+    "longitude": 46.5453144,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Kaido Cafe",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.7274402,
+    "longitude": 46.6904515,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى وهج الديوانيه",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.5599887,
+    "longitude": 46.8467973,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Starbucks cafe",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.6273239,
+    "longitude": 46.6896532,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "تسالي وقت الزين",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.5719895,
+    "longitude": 46.7535317,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "تاج القهوة",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.6443429,
+    "longitude": 46.5701137,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Churros joy",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7605396,
+    "longitude": 46.6003275,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى النخبة",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.8613421,
+    "longitude": 46.8497697,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "March Coffee مارش كوفي",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.6858635,
+    "longitude": 46.6871148,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "استراحة الهملة الخاصة",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.8720727,
+    "longitude": 46.8423781,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "SAHEEL Cafe",
+    "category": "cafe",
+    "rating": 4.5,
+    "latitude": 24.543597,
+    "longitude": 46.6646842,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "دقريز كافيه| قهوة مختصة| Degrees cafe",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7744952,
+    "longitude": 46.6561545,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Toqa Coffee",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.7063474,
+    "longitude": 46.7074512,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "عنوان القهوة",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.8195059,
+    "longitude": 46.7877339,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "شوكو سويس كافيه",
+    "category": "cafe",
+    "rating": 3.4,
+    "latitude": 24.6702486,
+    "longitude": 46.6757715,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Key",
+    "category": "cafe",
+    "rating": 3.6,
+    "latitude": 24.7420069,
+    "longitude": 46.6197712,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "قهوة عمل Business Coffee قهوة مختصة",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.72434,
+    "longitude": 46.6754418,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Coffee Roasters",
+    "category": "cafe",
+    "rating": 4.7,
+    "latitude": 24.6308337,
+    "longitude": 46.7117965,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Wolf diamond lounge",
+    "category": "cafe",
+    "rating": 3.3,
+    "latitude": 24.854462,
+    "longitude": 46.648112,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "كافيه ستار سكاي Starskycoffee",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.5538223,
+    "longitude": 46.5579937,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Veto Cafe فيتو كافيه",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.7440533,
+    "longitude": 46.8102141,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "قهوه وثلاث تمرات",
+    "category": "cafe",
+    "rating": 4.7,
+    "latitude": 24.7593595,
+    "longitude": 46.7053001,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "CHOLLA COFFEE",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.8085273,
+    "longitude": 46.6274717,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Bamboo Coffee",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.6012061,
+    "longitude": 46.7625973,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "DUNKIN’ DONUTS",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.7248131,
+    "longitude": 46.6580497,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهاة",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.5736012,
+    "longitude": 46.6640428,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "شاهي حبق",
+    "category": "cafe",
+    "rating": 4.5,
+    "latitude": 24.587005,
+    "longitude": 46.5429183,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Kyan",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.7040625,
+    "longitude": 46.8349375,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ستارك لاونج",
+    "category": "cafe",
+    "rating": 4.8,
+    "latitude": 24.8502621,
+    "longitude": 46.574783,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "روشن كافيه | Roshen Speciality Coffee",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.752917,
+    "longitude": 46.6744953,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "IV speciality cafe",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.6830634,
+    "longitude": 46.7871639,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "OBA ALI MAWJOOD",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.7053651,
+    "longitude": 46.7438947,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "LevelUp",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.7663909,
+    "longitude": 46.7543001,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "شاهي ام حمد",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.7937539,
+    "longitude": 46.7940602,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ديوانية نادر الكيف",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.8568016,
+    "longitude": 46.8333872,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "McCafe",
+    "category": "cafe",
+    "rating": 3.7,
+    "latitude": 24.7752372,
+    "longitude": 46.6177508,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "قطرة مختصة",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.653327,
+    "longitude": 46.5786306,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Segafredo Zanetti Espresso",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.686147,
+    "longitude": 46.7751188,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "كنفندي",
+    "category": "cafe",
+    "rating": 3.4,
+    "latitude": 24.783466,
+    "longitude": 46.7302549,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "وكف سمة - WACAFE Sima",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.6879375,
+    "longitude": 46.6648125,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Coffee Line خط القهوة",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.5736378,
+    "longitude": 46.6631747,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى المدرب",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.6074519,
+    "longitude": 46.7038888,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "N5 Caffe Head Office",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.6657276,
+    "longitude": 46.6999608,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Ghwan Cafe",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.7176949,
+    "longitude": 46.8033848,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "MANJANOON",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.7530244,
+    "longitude": 46.7268373,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ماما بنز كافيه | MammaBunz Cafe",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.5584375,
+    "longitude": 46.6375625,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى صكه CAFE DACA",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.654084,
+    "longitude": 46.5748714,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Dunkin' Donuts (دانكن دونات)",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.5731518,
+    "longitude": 46.6348664,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "arabica coffee",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.7411108,
+    "longitude": 46.8052091,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Paisano’s cafe بيزانو كافيه",
+    "category": "cafe",
+    "rating": 3.4,
+    "latitude": 24.8138219,
+    "longitude": 46.7079653,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "DRAFT Cafe درافت كافيه",
+    "category": "cafe",
+    "rating": 3.6,
+    "latitude": 24.6818062,
+    "longitude": 46.7080303,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Snob",
+    "category": "cafe",
+    "rating": 4.9,
+    "latitude": 24.8544523,
+    "longitude": 46.7357088,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Starbucks",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.7727919,
+    "longitude": 46.654981,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "دان كافيه DAN CAFE",
+    "category": "cafe",
+    "rating": 4.7,
+    "latitude": 24.8295965,
+    "longitude": 46.7343678,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "CANDOUR CAFE كان دور كافية ️",
+    "category": "cafe",
+    "rating": 4.8,
+    "latitude": 24.6836017,
+    "longitude": 46.725673,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ليتو كافيه L'ETO Cafe",
+    "category": "cafe",
+    "rating": 3.6,
+    "latitude": 24.77216,
+    "longitude": 46.6755262,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهئ",
+    "category": "cafe",
+    "rating": 3,
+    "latitude": 24.6515311,
+    "longitude": 46.6897169,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مؤسس",
+    "category": "cafe",
+    "rating": 1,
+    "latitude": 24.5864105,
+    "longitude": 46.5867597,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Beans Colors cafe - كافيه ألوان البن",
+    "category": "cafe",
+    "rating": 4.8,
+    "latitude": 24.6899314,
+    "longitude": 46.7648979,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ABELLA café",
+    "category": "cafe",
+    "rating": 4.7,
+    "latitude": 24.7318916,
+    "longitude": 46.7536019,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Moroccan Tea",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.6677316,
+    "longitude": 46.7832784,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ديوانية ملتقى الأذواق للقهوة",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.7540917,
+    "longitude": 46.7448385,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "انجويد لاونج",
+    "category": "cafe",
+    "rating": 4.9,
+    "latitude": 24.800866,
+    "longitude": 46.6010067,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مون كافيه MOON CAFE",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.8081465,
+    "longitude": 46.6951229,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ارابيكا ستار",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.6851228,
+    "longitude": 46.5734914,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Starnight",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.7151677,
+    "longitude": 46.7841981,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "WHJ CAFE",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.7463586,
+    "longitude": 46.7633863,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "إيسبريتو",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.80053,
+    "longitude": 46.6474428,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Barn's | بارنز",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.8218597,
+    "longitude": 46.7902639,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Shubbak cafe",
+    "category": "cafe",
+    "rating": 4.8,
+    "latitude": 24.8579933,
+    "longitude": 46.5976737,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "كافية خريطة الغذاء",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.6323012,
+    "longitude": 46.5362813,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "STARUPS coffee shop",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.827875,
+    "longitude": 46.7837488,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "COV COFFEE",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7167057,
+    "longitude": 46.7859199,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "McCafe",
+    "category": "cafe",
+    "rating": 2.8,
+    "latitude": 24.84059,
+    "longitude": 46.8292219,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Cinnabon",
+    "category": "cafe",
+    "rating": 3.7,
+    "latitude": 24.6086867,
+    "longitude": 46.6563127,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "كيان KYAN",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.5656822,
+    "longitude": 46.7625516,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "قهوة قندهار",
+    "category": "cafe",
+    "rating": 4.7,
+    "latitude": 24.6200772,
+    "longitude": 46.7335014,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "4twins Coffee | فورتوينز",
+    "category": "cafe",
+    "rating": 3,
+    "latitude": 24.7496798,
+    "longitude": 46.7647833,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "قهوة عبدالله العربية",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.6034111,
+    "longitude": 46.6314473,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Draft Café",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.70069,
+    "longitude": 46.7020041,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Black House Cafe",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.695266,
+    "longitude": 46.6830292,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "coz cafe",
+    "category": "cafe",
+    "rating": 3.1,
+    "latitude": 24.6340855,
+    "longitude": 46.6789011,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "كيف التوأم",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.7962731,
+    "longitude": 46.6078761,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "استراحة الهذال",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.6897535,
+    "longitude": 46.8454426,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "المذاق المغربي",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.5438952,
+    "longitude": 46.6822714,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Cup coffee 2",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.8420507,
+    "longitude": 46.7913577,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "MOOD Souq Alzal",
+    "category": "cafe",
+    "rating": 4.7,
+    "latitude": 24.6303093,
+    "longitude": 46.713967,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "بطاقة القهوة",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.7020598,
+    "longitude": 46.6960965,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Style Cafe",
+    "category": "cafe",
+    "rating": 3.7,
+    "latitude": 24.5649077,
+    "longitude": 46.6838042,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ذا سبوت",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.8184764,
+    "longitude": 46.8028882,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Self Made Coffee",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.7592993,
+    "longitude": 46.6959738,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "McCafe",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.7043969,
+    "longitude": 46.8333686,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "45 degrees coffe كوفي",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.8099887,
+    "longitude": 46.7840169,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Fast Coffee",
+    "category": "cafe",
+    "rating": 3.7,
+    "latitude": 24.6579711,
+    "longitude": 46.7357205,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى - مجتمع فناء",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.6765137,
+    "longitude": 46.7696994,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Café titiz",
+    "category": "cafe",
+    "rating": 2.8,
+    "latitude": 24.8181815,
+    "longitude": 46.6869938,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Golden Brasil Cafe",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.7742696,
+    "longitude": 46.7760914,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Tinat Cafe تينات كافيه",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.7656573,
+    "longitude": 46.6797995,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "راي",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.5849487,
+    "longitude": 46.5614109,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "café français -القهوة الفرنسية",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.6468936,
+    "longitude": 46.7168976,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "PortaFilter",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.6822934,
+    "longitude": 46.7778186,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "dr.CAFE COFFEE | د.كيف كافيه",
+    "category": "cafe",
+    "rating": 4,
+    "latitude": 24.5435067,
+    "longitude": 46.6926696,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Arabica coffee",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.6371904,
+    "longitude": 46.6931136,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Coffee Morocco",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.6119525,
+    "longitude": 46.8230186,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "دكتور كافي",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.6556033,
+    "longitude": 46.717283,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "قهوة احمد رشا",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.6510694,
+    "longitude": 46.6698991,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ذا سوريج لاونج",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.8649311,
+    "longitude": 46.8058175,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Jaam Coffee",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.6894205,
+    "longitude": 46.6341249,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Dunkin’ Donuts",
+    "category": "cafe",
+    "rating": 3.5,
+    "latitude": 24.7279149,
+    "longitude": 46.6343373,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "قهوه شعبيه",
+    "category": "cafe",
+    "rating": 3,
+    "latitude": 24.6037245,
+    "longitude": 46.7305409,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Damascu cafe",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.7067429,
+    "longitude": 46.6877522,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى بارنز",
+    "category": "cafe",
+    "rating": 3.3,
+    "latitude": 24.7103401,
+    "longitude": 46.8319283,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Cafe Tale",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7822237,
+    "longitude": 46.7062983,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Caribou Coffee KFR -كاريبو كوفي",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.7378998,
+    "longitude": 46.6584273,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Arabica Coffee",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.6844977,
+    "longitude": 46.6522549,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "A12 cafe | اي تويلف",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.7338466,
+    "longitude": 46.6485965,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Parole Cafe",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.8319355,
+    "longitude": 46.7670226,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "سي يو كافيه - CU Specialty coffee",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.5913163,
+    "longitude": 46.6229969,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "افري داي كافي",
+    "category": "cafe",
+    "rating": 3.3,
+    "latitude": 24.5850044,
+    "longitude": 46.6636115,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "نافذة القهوة",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.8214294,
+    "longitude": 46.6856544,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "88 shots cafe",
+    "category": "cafe",
+    "rating": 4.5,
+    "latitude": 24.7275625,
+    "longitude": 46.6881875,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "COBEE Cafe",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.7027431,
+    "longitude": 46.7785507,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "65 sixty five degrees",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.7592884,
+    "longitude": 46.7162517,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Seventies Cafe",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7416456,
+    "longitude": 46.6453732,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "SHOTS",
+    "category": "cafe",
+    "rating": 3.8,
+    "latitude": 24.725686,
+    "longitude": 46.6446749,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "صلح شاي الربوة",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.701488,
+    "longitude": 46.7457965,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "McCafé",
+    "category": "cafe",
+    "rating": 1.5,
+    "latitude": 24.8172889,
+    "longitude": 46.73238,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ديبلو كافيه",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.6827305,
+    "longitude": 46.8151005,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Java Cafe جافا كافيه",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.6874716,
+    "longitude": 46.7029034,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "12 Cups",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.7606233,
+    "longitude": 46.6397385,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "سعد الدين جرير اكسبريس Saadeddin Cafe",
+    "category": "cafe",
+    "rating": 4.3,
+    "latitude": 24.7582484,
+    "longitude": 46.8307793,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "Kaldi Coffee",
+    "category": "cafe",
+    "rating": 3.9,
+    "latitude": 24.7257298,
+    "longitude": 46.6428427,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "جلسة صفوة الشاي",
+    "category": "cafe",
+    "rating": 4.6,
+    "latitude": 24.6911075,
+    "longitude": 46.7847928,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "لايقر كافيه",
+    "category": "cafe",
+    "rating": 3.7,
+    "latitude": 24.6047707,
+    "longitude": 46.6557099,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهي و ديوانية إبريق الشاي",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.7064103,
+    "longitude": 46.8291798,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "وايت تربل WHITE TRIPLE كوفي",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.8735368,
+    "longitude": 46.8057939,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "..",
+    "category": "cafe",
+    "rating": 3.3,
+    "latitude": "Null",
+    "longitude": "Null",
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "TRIESTE KAFD",
+    "category": "cafe",
+    "rating": 4.1,
+    "latitude": 24.7605625,
+    "longitude": 46.6389375,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى الحواته للتقديم المشروبات",
+    "category": "cafe",
+    "rating": 4.4,
+    "latitude": 24.6202112,
+    "longitude": 46.7336752,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "لام كافيه",
+    "category": "cafe",
+    "rating": 4.5,
+    "latitude": 24.8538322,
+    "longitude": 46.7736926,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "مقهى ومحمصة حصيد",
+    "category": "cafe",
+    "rating": 4.9,
+    "latitude": 24.7855793,
+    "longitude": 46.8062885,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "المذاق المغربي",
+    "category": "cafe",
+    "rating": 3.7,
+    "latitude": 24.7666941,
+    "longitude": 46.8081056,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "ديلان كافية",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.8613071,
+    "longitude": 46.7870238,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "your cup",
+    "category": "cafe",
+    "rating": 5,
+    "latitude": 24.8341856,
+    "longitude": 46.6316872,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "استراحة الشماتين",
+    "category": "cafe",
+    "rating": 3,
+    "latitude": 24.8527085,
+    "longitude": 46.8091195,
+    "source": "cafes",
+    "main_category": "cafe"
+  },
+  {
+    "place_name": "شاي بخار ديوانية هلا",
+    "category": "cafe",
+    "rating": 4.2,
+    "latitude": 24.8241553,
+    "longitude": 46.788038,
+    "source": "cafes",
+    "main_category": "cafe"
+  }
+]
